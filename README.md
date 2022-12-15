@@ -1,6 +1,7 @@
 # CohortAnalysisDibimbing
 
 This is the notebook file about cohort analysis using the purchase data. Cohort analysis is done to learn user engagement over time.
+Data download link: https://drive.google.com/file/d/1iEFR7WiIPRQciv5OnemsL0HzMXMsCjg_/view?usp=sharing
 
 How to use this script?
 

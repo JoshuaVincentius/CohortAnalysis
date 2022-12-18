@@ -6,6 +6,6 @@ Data download link: https://drive.google.com/file/d/1iEFR7WiIPRQciv5OnemsL0HzMXM
 How to use this script?
 
 1. First, download Python
-2. After that, download this repo as zip or using git clone https://github.com/JoshuaVincentius/CohortAnalysisDibimbing.git on git cli
+2. After that, download this repo as zip or using git clone https://github.com/JoshuaVincentius/CohortAnalysis.git on git cli
 3. Extract the folder and navigate to the extracted folder
 4. Run the code in the notebook file
